@@ -1,3 +1,3 @@
 Amazing Platformer
 (feel free to fork it and make your own levels)
-EXE file download ----> https://drive.google.com/file/d/147khuhzpRZY4YAb1SyPetmbGn4uOehto/view?usp=sharing (too large to put on github 🥲)
+EXE file download ----> https://drive.usercontent.google.com/u/0/uc?id=147khuhzpRZY4YAb1SyPetmbGn4uOehto&export=download (too large to put on github 🥲)
