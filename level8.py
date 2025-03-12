@@ -107,14 +107,14 @@ while run:
                 Yspeed=0
                 player.x = OGX
                 player.y = OGY
-            if event.key == pygame.K_w:
+            if event.key == pygame.K_w or event.key == pygame.K_UP:
                 if canjump:
                     Yspeed = -jump
                     canjump = False
     keys = pygame.key.get_pressed()
-    if keys[pygame.K_d]:
+    if keys[pygame.K_d] or keys[pygame.K_RIGHT]:
         Xspeed = leftright
-    elif keys[pygame.K_a]:
+    elif keys[pygame.K_a] or keys[pygame.K_LEFT]:
         Xspeed = -leftright
     else:
         Xspeed = 0
