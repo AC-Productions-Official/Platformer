@@ -1,1 +1,3 @@
-Amazing Platformer (feel free to fork it and make your own levels) EXE file download ----> https://drive.google.com/file/d/1JHdRsIzzLVHiviMp6Vt-gVktGBrgatDo/view?usp=sharing (too large to put on github 🥲)
+Amazing Platformer (feel free to fork it and make your own levels)
+All you have to do it download the exe and the textures folder to run it!!!
+(click the green button on the top right, download zip, extract and run exe)
