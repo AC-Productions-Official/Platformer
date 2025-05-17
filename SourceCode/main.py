@@ -70,7 +70,9 @@ hardcoreenabler = True
 
 
 #soundtrack stuff
-
+pygame.mixer.init()
+pygame.mixer.music.load(r"textures\soundtrack.mp3")
+pygame.mixer.music.play(-1)
 
 
 try:
